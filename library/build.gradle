@@ -11,7 +11,7 @@ def libVersionName = "1.0.0.0"
 version = libVersionName
 def siteUrl = 'https://github.com/shareme/GWSLDialogs'
 def gitUrl = 'https://github.com/shareme/GWSLDialogs.git'
-group = "com.github.shareme.GWSLDialogs"
+group = "com.github.shareme"
 
 
 
